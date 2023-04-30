@@ -7,4 +7,4 @@ Data Structures & Algorithms
 
 
 
-https://confirm.udacity.com/VEAPHRFR
+confirm.udacity.com/VEAPHRFR
