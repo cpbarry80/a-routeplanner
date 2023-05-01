@@ -13,11 +13,5 @@ pip install -r requirements.txt
 
 ## Usage
 
-To use the Route Planner project, simply run the `route_planner.py` script and follow the prompts. Here is an example of how to use the project to find the shortest path between two points on a map:
-
-python route_planner.py
-
-Enter the starting point: New York City 
-Enter the destination: Los Angeles
-
+To use the Route Planner project, simply run the `route_planner.py` script and follow the prompts.
 
